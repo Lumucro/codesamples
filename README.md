@@ -3,10 +3,10 @@ Code samples of some work I have done
 ------
 
 
-Alien Carnage: C++
+ZombieAI: C++ - Timeframe: 1 day
 
 
-Squawker: C#
+Squawker: C# - Timeframe: 4 weeks
 
 
-Vlondren: Gmod Lua
+Vlondren: Gmod Lua - Timeframe: 4 weeks
